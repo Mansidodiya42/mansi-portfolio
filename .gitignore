@@ -1,0 +1,16 @@
+# Node (jo future ma use karo to)
+node_modules/
+
+# Build / Generated files
+dist/
+build/
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Prepros cache (optional)
+.prepros/
